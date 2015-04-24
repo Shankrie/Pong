@@ -1,0 +1,13 @@
+c:\users\henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\bin\Debug\ProgramTwo.exe.config
+c:\users\henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\bin\Debug\ProgramTwo.exe
+c:\users\henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\bin\Debug\ProgramTwo.pdb
+c:\users\henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\obj\Debug\ProgramTwo.csprojResolveAssemblyReference.cache
+c:\users\henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\obj\Debug\ProgramTwo.Frame.resources
+c:\users\henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\obj\Debug\ProgramTwo.Properties.Resources.resources
+c:\users\henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\obj\Debug\ProgramTwo.csproj.GenerateResource.Cache
+c:\users\henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\obj\Debug\ProgramTwo.exe
+c:\users\henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\obj\Debug\ProgramTwo.pdb
+C:\Users\Henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\bin\Debug\ProgramTwo.exe.manifest
+C:\Users\Henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\bin\Debug\ProgramTwo.application
+C:\Users\Henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\obj\Debug\ProgramTwo.exe.manifest
+C:\Users\Henrikas\documents\visual studio 2013\Projects\ProgramTwo\ProgramTwo\obj\Debug\ProgramTwo.application
