@@ -1,5 +1,5 @@
 ## Description
-Simple Pong clode made in C#.
+Simple Pong clone made in C#.
 Local multiplayer-only (no AI)
 
 ## Preview
